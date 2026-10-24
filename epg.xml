@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="WILL SPORTS EPG" generator-info-url="facebook/willamsartesX">
+
+  <!-- ================= CANAIS ================= -->
+
+  <channel id="ESPN.br"><display-name>ESPN</display-name><icon src="http://listaccess.me/Logo/ESPN.png"/></channel>
+  <channel id="ESPNBrasil.br"><display-name>ESPN Brasil</display-name><icon src="http://listaccess.me/Logo/EspnBrasil.png"/></channel>
+  <channel id="ESPNExtra.br"><display-name>ESPN Extra</display-name><icon src="http://listaccess.me/Logo/espnextra.png"/></channel>
+  <channel id="EsporteInterativo.br"><display-name>Esporte Interativo</display-name><icon src="http://listaccess.me/Logo/EsporteInterativo1.png"/></channel>
+  <channel id="EsporteInterativo2.br"><display-name>Esporte Interativo 2</display-name><icon src="http://listaccess.me/Logo/EsporteInterativo1.png"/></channel>
+  <channel id="FoxSports.br"><display-name>Fox Sports</display-name><icon src="http://listaccess.me/Logo/FoxSports1.png"/></channel>
+  <channel id="FoxSports2.br"><display-name>Fox Sports 2</display-name><icon src="http://listaccess.me/Logo/FoxSports2.png"/></channel>
+  <channel id="SporTV.br"><display-name>SporTV</display-name><icon src="http://listaccess.me/Logo/sportv1.png"/></channel>
+  <channel id="SporTV2.br"><display-name>SporTV 2</display-name><icon src="http://listaccess.me/Logo/Sportv2.png"/></channel>
+  <channel id="SporTV3.br"><display-name>SporTV 3</display-name><icon src="http://listaccess.me/Logo/Sportv3.png"/></channel>
+  <channel id="OFF.br"><display-name>OFF</display-name><icon src="http://listaccess.me/Logo/OFF1.png"/></channel>
+  <channel id="Premiere2.br"><display-name>Premiere 2</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere3.br"><display-name>Premiere 3</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere4.br"><display-name>Premiere 4</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere5.br"><display-name>Premiere 5</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere6.br"><display-name>Premiere 6</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere7.br"><display-name>Premiere 7</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere8.br"><display-name>Premiere 8</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="Premiere9.br"><display-name>Premiere 9</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="PremiereClubes.br"><display-name>Premiere Clubes</display-name><icon src="http://listaccess.me/Logo/PFC1.png"/></channel>
+  <channel id="FoxPremium1.br"><display-name>Fox Premium 1</display-name><icon src="http://listaccess.me/Logo/FoxPremium.png"/></channel>
+  <channel id="FoxPremium2.br"><display-name>Fox Premium 2</display-name><icon src="http://listaccess.me/Logo/FoxPremium22.png"/></channel>
+  <channel id="Space.br"><display-name>Space</display-name><icon src="http://listaccess.me/Logo/space1.png"/></channel>
+
+  <!-- ================= PROGRAMAÇÃO: ESPN ================= -->
+
+  <programme start="20261024060000 -0300" stop="20261024080000 -0300" channel="ESPN.br">
+    <title lang="pt">ESPN SportsCenter</title>
+    <desc lang="pt">Notícias e destaques do esporte mundial.</desc>
+    <category lang="pt">Esporte</category>
+  </programme>
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="ESPN.br">
+    <title lang="pt">Futebol: Premier League - Manchester City x Arsenal</title>
+    <desc lang="pt">Transmissão ao vivo da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="ESPN.br">
+    <title lang="pt">ESPN News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="ESPN.br">
+    <title lang="pt">Futebol: La Liga - Real Madrid x Barcelona</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="ESPN.br">
+    <title lang="pt">ESPN Futebol Clube</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="ESPN.br">
+    <title lang="pt">Futebol: Brasileirão - Flamengo x Palmeiras</title>
+    <desc lang="pt">Clássico do Brasileirão ao vivo.</desc>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="ESPN.br">
+    <title lang="pt">Futebol: Brasileirão - Corinthians x São Paulo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="ESPN.br">
+    <title lang="pt">ESPN SportsCenter</title>
+    <category lang="pt">Esporte</category>
+  </programme>
+  <programme start="20261024220000 -0300" stop="20261024230000 -0300" channel="ESPN.br">
+    <title lang="pt">Linha de Passe</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024230000 -0300" stop="20261025010000 -0300" channel="ESPN.br">
+    <title lang="pt">Futebol: Série B - Sport x Vitória</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: ESPN BRASIL ================= -->
+
+  <programme start="20261024060000 -0300" stop="20261024080000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">ESPN Brasil News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">Futebol: Brasileirão - Athletico x Grêmio</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">Bola de Fogo</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">Futebol: Brasileirão - Fluminense x Botafogo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">ESPN Futebol Clube</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">Futebol: Brasileirão - Internacional x Cruzeiro</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">Futebol: Brasileirão - Vasco x Santos</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">ESPN Brasil News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024220000 -0300" stop="20261024230000 -0300" channel="ESPNBrasil.br">
+    <title lang="pt">Futebol: Série B - Novorizontino x Ceará</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: ESPN EXTRA ================= -->
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Campeonato Inglês - Liverpool x Chelsea</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Campeonato Italiano - Juventus x Milan</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Campeonato Alemão - Bayern x Dortmund</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Campeonato Francês - PSG x Marseille</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Libertadores - Flamengo x River Plate</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Sul-Americana - Corinthians x Racing</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="ESPNExtra.br">
+    <title lang="pt">Futebol: Brasileirão - Bahia x Fortaleza</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: ESPORTE INTERATIVO ================= -->
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="EsporteInterativo.br">
+    <title lang="pt">EI News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="EsporteInterativo.br">
+    <title lang="pt">Futebol: Champions League - Real Madrid x City</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="EsporteInterativo.br">
+    <title lang="pt">Futebol: Champions League - Bayern x PSG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="EsporteInterativo.br">
+    <title lang="pt">EI Debate</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="EsporteInterativo.br">
+    <title lang="pt">Futebol: Brasileirão - Palmeiras x Flamengo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="EsporteInterativo.br">
+    <title lang="pt">Futebol: Brasileirão - São Paulo x Corinthians</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="EsporteInterativo2.br">
+    <title lang="pt">EI 2 - Replay</title>
+    <category lang="pt">Esporte</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="EsporteInterativo2.br">
+    <title lang="pt">Futebol: Campeonato Português - Benfica x Porto</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="EsporteInterativo2.br">
+    <title lang="pt">Futebol: Campeonato Holandês - Ajax x PSV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="EsporteInterativo2.br">
+    <title lang="pt">Futebol: Campeonato Turco - Galatasaray x Fenerbahçe</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: FOX SPORTS ================= -->
+
+  <programme start="20261024060000 -0300" stop="20261024080000 -0300" channel="FoxSports.br">
+    <title lang="pt">Fox Sports News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="FoxSports.br">
+    <title lang="pt">Futebol: Copa do Brasil - Flamengo x Atlético-MG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="FoxSports.br">
+    <title lang="pt">Futebol: Libertadores - Palmeiras x Boca Juniors</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="FoxSports.br">
+    <title lang="pt">Fox Sports Debate</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="FoxSports.br">
+    <title lang="pt">Futebol: Brasileirão - Grêmio x Internacional</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="FoxSports.br">
+    <title lang="pt">Futebol: Brasileirão - Cruzeiro x Atlético-MG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="FoxSports.br">
+    <title lang="pt">Futebol: Brasileirão - Flamengo x Vasco</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="FoxSports.br">
+    <title lang="pt">Fox Sports News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="FoxSports2.br">
+    <title lang="pt">Futebol: Campeonato Argentino - Boca x River</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="FoxSports2.br">
+    <title lang="pt">Futebol: Campeonato Uruguaio - Peñarol x Nacional</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="FoxSports2.br">
+    <title lang="pt">Futebol: Campeonato Colombiano - Millonarios x Nacional</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="FoxSports2.br">
+    <title lang="pt">Futebol: Campeonato Chileno - Colo-Colo x U. Católica</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="FoxSports2.br">
+    <title lang="pt">Futebol: Sul-Americana - Botafogo x LDU</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: SPORTV ================= -->
+
+  <programme start="20261024060000 -0300" stop="20261024080000 -0300" channel="SporTV.br">
+    <title lang="pt">SporTV News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="SporTV.br">
+    <title lang="pt">Futebol: Brasileirão - Flamengo x Palmeiras</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="SporTV.br">
+    <title lang="pt">Futebol: Brasileirão - Corinthians x São Paulo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="SporTV.br">
+    <title lang="pt">Troca de Passes</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="SporTV.br">
+    <title lang="pt">Futebol: Brasileirão - Grêmio x Internacional</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="SporTV.br">
+    <title lang="pt">Futebol: Brasileirão - Atlético-MG x Cruzeiro</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="SporTV.br">
+    <title lang="pt">Futebol: Brasileirão - Fluminense x Botafogo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="SporTV.br">
+    <title lang="pt">SporTV News</title>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20261024220000 -0300" stop="20261025000000 -0300" channel="SporTV.br">
+    <title lang="pt">Futebol: Série B - Sport x Ceará</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="SporTV2.br">
+    <title lang="pt">Futebol: Brasileirão Série B - Vitória x Novorizontino</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="SporTV2.br">
+    <title lang="pt">Futebol: Brasileirão Série B - Ceará x Sport</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="SporTV2.br">
+    <title lang="pt">Futebol: Brasileirão Série B - Goiás x Coritiba</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="SporTV2.br">
+    <title lang="pt">Futebol: Brasileirão Série B - Avaí x Chapecoense</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="SporTV2.br">
+    <title lang="pt">Futebol: Brasileirão Série B - América-MG x Athletic</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="SporTV3.br">
+    <title lang="pt">Futebol: Campeonato Paulista - Santos x Palmeiras</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="SporTV3.br">
+    <title lang="pt">Futebol: Campeonato Carioca - Flamengo x Vasco</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="SporTV3.br">
+    <title lang="pt">Futebol: Campeonato Gaúcho - Grêmio x Internacional</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="SporTV3.br">
+    <title lang="pt">Futebol: Campeonato Mineiro - Cruzeiro x Atlético-MG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: OFF ================= -->
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="OFF.br">
+    <title lang="pt">OFF - Replay</title>
+    <category lang="pt">Esporte</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="OFF.br">
+    <title lang="pt">Futebol: Campeonato Brasileiro - Melhores Momentos</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="OFF.br">
+    <title lang="pt">OFF Debate</title>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="OFF.br">
+    <title lang="pt">Futebol: Série B - Melhores Momentos</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: PREMIERE ================= -->
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere2.br">
+    <title lang="pt">Futebol: Brasileirão - Flamengo x Palmeiras</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere2.br">
+    <title lang="pt">Futebol: Brasileirão - Corinthians x São Paulo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="Premiere2.br">
+    <title lang="pt">Futebol: Brasileirão - Grêmio x Internacional</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere3.br">
+    <title lang="pt">Futebol: Brasileirão - Atlético-MG x Cruzeiro</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere3.br">
+    <title lang="pt">Futebol: Brasileirão - Fluminense x Botafogo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="Premiere3.br">
+    <title lang="pt">Futebol: Brasileirão - Vasco x Santos</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere4.br">
+    <title lang="pt">Futebol: Brasileirão - Bahia x Fortaleza</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere4.br">
+    <title lang="pt">Futebol: Brasileirão - Internacional x Cruzeiro</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere5.br">
+    <title lang="pt">Futebol: Brasileirão - Athletico x Grêmio</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere5.br">
+    <title lang="pt">Futebol: Brasileirão - Cuiabá x Corinthians</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere6.br">
+    <title lang="pt">Futebol: Brasileirão - Juventude x Bragantino</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere6.br">
+    <title lang="pt">Futebol: Brasileirão - Criciúma x Atlético-GO</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere7.br">
+    <title lang="pt">Futebol: Brasileirão - Vitória x Flamengo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere7.br">
+    <title lang="pt">Futebol: Brasileirão - Palmeiras x São Paulo</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere8.br">
+    <title lang="pt">Futebol: Brasileirão - Santos x Vasco</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Premiere8.br">
+    <title lang="pt">Futebol: Brasileirão - Botafogo x Fluminense</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Premiere9.br">
+    <title lang="pt">Futebol: Brasileirão - Fortaleza x Bahia</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="PremiereClubes.br">
+    <title lang="pt">Futebol: Brasileirão - Jogos do dia</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="PremiereClubes.br">
+    <title lang="pt">Futebol: Brasileirão - Flamengo x Palmeiras</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: FOX PREMIUM ================= -->
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Filme: Velozes e Furiosos 9</title>
+    <desc lang="pt">Ação e velocidade na saga de Dominic Toretto.</desc>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Filme: Vingadores: Ultimato</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Série: The Walking Dead - Ep. 1</title>
+    <category lang="pt">Série</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Filme: O Poderoso Chefão</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Filme: Interestelar</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Filme: Matrix</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="FoxPremium1.br">
+    <title lang="pt">Filme: Gladiador</title>
+    <category lang="pt">Filme</category>
+  </programme>
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="FoxPremium2.br">
+    <title lang="pt">Filme: John Wick 4</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="FoxPremium2.br">
+    <title lang="pt">Filme: Top Gun: Maverick</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="FoxPremium2.br">
+    <title lang="pt">Série: Breaking Bad - Ep. 1</title>
+    <category lang="pt">Série</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="FoxPremium2.br">
+    <title lang="pt">Filme: Batman: O Cavaleiro das Trevas</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="FoxPremium2.br">
+    <title lang="pt">Filme: Duna</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="FoxPremium2.br">
+    <title lang="pt">Filme: Oppenheimer</title>
+    <category lang="pt">Filme</category>
+  </programme>
+
+  <!-- ================= PROGRAMAÇÃO: SPACE ================= -->
+
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="Space.br">
+    <title lang="pt">Filme: Um Lugar Silencioso</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024120000 -0300" channel="Space.br">
+    <title lang="pt">Filme: Corra!</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024120000 -0300" stop="20261024140000 -0300" channel="Space.br">
+    <title lang="pt">Filme: Invocação do Mal</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024140000 -0300" stop="20261024160000 -0300" channel="Space.br">
+    <title lang="pt">Filme: It: A Coisa</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024160000 -0300" stop="20261024180000 -0300" channel="Space.br">
+    <title lang="pt">Filme: O Exorcista</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024200000 -0300" channel="Space.br">
+    <title lang="pt">Filme: Hereditário</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="Space.br">
+    <title lang="pt">Filme: A Freira</title>
+    <category lang="pt">Filme</category>
+  </programme>
+
+</tv>
